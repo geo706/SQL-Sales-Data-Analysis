@@ -1,1 +1,1 @@
-# SQL-Sales-Data-Analysis
+This SQL script drills into the data to understand which sales reps are bringing in the most revenue within their sales region. These queries rank them by net sales, as well as the percentage of their sales throughout their respective regions.
